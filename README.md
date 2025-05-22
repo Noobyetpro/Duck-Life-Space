@@ -1,45 +1,35 @@
-# Duck Life Space
+# 🦆 Duck Life Space
 
-Welcome to **Duck Life Space**, an exciting game built with **Electron** and featuring awesome space adventures! In this game, you'll help your ducky explore space, earn points, and unlock cool features. Fly through the cosmos and see how far you can go!
-
----
-
+Welcome to **Duck Life Space**, an electrifying desktop adventure game powered by **Electron**! Help your brave little duck conquer the galaxy—train hard, collect points, and unlock awesome features as you soar through space. 🪐
 
 ---
 
-## 📦 Installation
+## 📥 Installation
 
-To get started with **Duck Life Space** on your local machine, follow these steps:
-
-
-1. Navigate into the project Repo:
-
-   Download the installer for your device
-   run the installer, follow the steps to install
-
-
-
-3. To run the game locally:
-
-     Find the app installed, and run it.
+To install **Duck Life Space**, follow the detailed instructions in [BUILD.md](BUILD.md).
 
 ---
-
 
 ## 📑 License
 
-This project is licensed under the Apache License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **Apache License**. See the [LICENSE](LICENSE) file for full terms.
 
 ---
 
-## 🔧 Built With
+## ❗ Disclaimer
 
-- **Electron** – Framework for building cross-platform desktop apps with web technologies.
-- **JavaScript/HTML/CSS** – Core web technologies used to build the game interface.
-- **Node.js** – JavaScript runtime for running the backend of the app.
+Duck Life Space is a fan-made project and is not affiliated with any official Duck Life developers or publishers. Built for fun, learning, and the love of ducks in space.
 
 ---
 
-## 📞 Contact
+## 🔧 Tech Stack
 
-If you have any questions, feel free to reach out to me on GitHub or via email.
+- **Electron** – Cross-platform desktop framework  
+- **JavaScript / HTML / CSS** – Frontend  
+- **Node.js** – Backend logic and file handling
+
+---
+
+## 📬 Contact
+
+Questions or feedback? Open an issue on GitHub or drop a message via email.
